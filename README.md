@@ -9,7 +9,7 @@ Nifty 50 stocks are often treated as uniformly "safe" simply because they're blu
 ### Business Problem:
 An investor or analyst trying to build a long-term Nifty 50 allocation needs more than brand recognition or recent headlines to go on: which of these 50 stocks have actually compounded wealth most efficiently, which carried outsized risk for the return delivered, and how independently do they move from one another? This project answers that using 30+ years of daily trading data rather than sentiment or recency bias.
 
-![Dashboard Overview](screenshot.png)
+<img width="912" height="502" alt="Image" src="https://github.com/user-attachments/assets/a58d2ea5-76d1-4546-a52d-236b891cc072" />
 
 ### Methodology:
 1. Sourced and combined three decades of daily OHLCV and adjusted close data for all 50 Nifty 50 constituents in Python, looping through 50 individual per-stock files.
